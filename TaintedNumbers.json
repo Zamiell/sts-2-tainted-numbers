@@ -1,0 +1,12 @@
+{
+  "id": "TaintedNumbers",
+  "name": "Tainted Numbers",
+  "author": "James",
+  "description": "Shows the extra incoming damage from a Tainted card, accounting for current attack intents, multi-hits, and Weak.",
+  "version": "1.0.0",
+  "min_game_version": "0.111.0",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}
